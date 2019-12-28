@@ -10,7 +10,6 @@
 * 유망한 노드를 탐색하여 가지치기하여 최종해를 찾음.
 * 가장 마지막으로 성공한 탐색 결과로 되추척.
 
-
 ## N-Queens Problem
 
 체스 게임에서 N개의 퀸이 NxN의 장기 판안에서 체스 규칙을 준수 하면서 서로 잡아 먹히지 않게끔 배치하는 위치시기는 문제이다.
@@ -84,3 +83,4 @@ if(col[k]-col[i]==k-i)
 [백트래킹 카테고리](https://www.acmicpc.net/problem/tag/백트래킹)
 
 [9663](https://www.acmicpc.net/problem/9663)
+
