@@ -1,6 +1,6 @@
 # study
 
-[알고리즘 스터디](./algo)
+[알고리즘 스터디](https://github.com/niconiconitx1/study/tree/master/Algo)
 
 
 
